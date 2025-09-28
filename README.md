@@ -12,8 +12,6 @@ Currently studying **Data Science and Engineering** at the University of Las Pal
 [![Email](https://img.shields.io/badge/Email-as.gonzalezhz%40gmail.com-D14836?logo=gmail\&logoColor=white)](mailto:as.gonzalezhz@gmail.com)
 📍 Arucas, Las Palmas, Spain
 
-![Location](https://img.shields.io/badge/Location-Arucas%2C%20Las%20Palmas%2C%20Spain-blue?style=flat-square&logo=map-marker) Arucas, Las Palmas, Spain
-
 
 ---
 
