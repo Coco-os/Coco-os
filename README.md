@@ -75,7 +75,7 @@ Currently studying **Data Science and Engineering** at the University of Las Pal
 
 **Physiotherapist** — Canarian Health Service *(2021)*
 
-* Replaced lead physiotherapist in Back School program.
+* Lead physiotherapist in Back School program.
 * Delivered group workshops for chronic back pain rehabilitation.
 
 ---
