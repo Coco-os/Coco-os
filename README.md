@@ -1,4 +1,4 @@
-# Hi there, I'm Ancor Semidán González
+# Hi there, I'm Ancor S. González H.
 
 **Aspiring Data Scientist** driven to work on meaningful solutions to today’s problems.
 Currently studying **Data Science and Engineering** at the University of Las Palmas de Gran Canaria.
