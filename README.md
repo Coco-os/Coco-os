@@ -97,5 +97,3 @@ Music • Arts • Sports • Reading • Tabletop Games • Miniatures • Vide
 ![Ancor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coco-os&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coco-os&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Coco-os&theme=radical)
-
-![Ancor's GitHub stats]([https://github-readme-stats.vercel.app/api?u](https://github-readme-stats.vercel.app/api?u)
