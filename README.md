@@ -67,7 +67,7 @@ I build data products and web applications, and I'm especially interested in app
 
 ## Education
 
-**MSc in Data Science & AI** — EVOLVE *(2026–2027, ongoing)*
+**Data Science & AI Program** — Evolve Academy *(2026–2027, ongoing)*
 
 **BSc in Data Science and Engineering** — University of Las Palmas de Gran Canaria *(2023–2027, ongoing)*
 - Coursework and projects in neural networks, expert systems, data visualization, BI tooling and cloud services (AWS).
@@ -85,5 +85,5 @@ Game development (Unity, Unreal) · 3D printing · Music · Tabletop games and m
 
 ---
 
-![Ancor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coco-os&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coco-os&layout=compact&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coco-os&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coco-os&theme=radical)
